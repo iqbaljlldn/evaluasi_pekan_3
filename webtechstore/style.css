@@ -120,6 +120,12 @@ body {
     padding: 4rem 2rem;
     margin-bottom: 2rem;
     border-radius: 8px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+
 }
 
 
